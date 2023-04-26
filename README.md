@@ -1,3 +1,3 @@
-Software Engineer with almost 5 years of professional experience designing, developing and deploying high-value web applications.
+Software Engineer with 5 years of professional experience building mission-critical web and mobile applications
 
-[CV](https://www.sebastianpreston.com/sebastian-preston-cv.pdf) | [Website](https://www.sebastianpreston.com/) | [LinkedIn](https://www.linkedin.com/in/sebprest/)
+[CV](https://sebastianpreston.com/sebastian-preston-cv.pdf) | [Website](https://sebastianpreston.com) | [LinkedIn](https://linkedin.com/in/sebprest)
